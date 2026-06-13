@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=%F0%9F%91%8B+Hi%2C+I%27m+Gnana+Subashini!;%F0%9F%92%BB+Full-Stack+Developer+%7C+Python+%7C+React;%F0%9F%8C%90+Building+Practical+Web+%26+Backend+Apps;%F0%9F%9A%80+Open+to+Software+Developer+Opportunities)](https://git.io/typing-svg)
 
 <!-- View Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=GnanaSubashini&color=70a5fd&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=cxndymee&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -103,11 +103,11 @@ print(me.motto())
 
 ### 📊 GitHub Stats
 
-<a href="https://github.com/GnanaSubashini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GnanaSubashini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+<a href="https://github.com/cxndymee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cxndymee&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/GnanaSubashini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GnanaSubashini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+<a href="https://github.com/cxndymee">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxndymee&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
 </div>
@@ -120,7 +120,7 @@ print(me.motto())
 
 ### 🔥 Streak Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GnanaSubashini&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=cxndymee&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -132,7 +132,7 @@ print(me.motto())
 
 ### 📈 Contribution Activity
 
-[![Gnana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GnanaSubashini&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/GnanaSubashini)
+[![Gnana's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cxndymee&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/cxndymee)
 
 </div>
 
@@ -144,7 +144,7 @@ print(me.motto())
 
 ### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=GnanaSubashini&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/GnanaSubashini)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=cxndymee&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/cxndymee)
 
 </div>
 
@@ -194,8 +194,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| 🎓 [**ERP-based Attendance System**](https://github.com/GnanaSubashini) | `Python` `MySQL` `HTML` `CSS` `JavaScript` | Academic ERP to manage student records, staff information & attendance tracking. Streamlined record-keeping for multi-department use. |
-| ⚙️ [**Distributed Task Queue System (Taskflow)**](https://github.com/GnanaSubashini) | `Node.js` `PostgreSQL` `pgBoss` `React.js` | Mobile-first distributed task queue system powered by pgBoss queue processing. Supports async job scheduling, retries, and real-time task status tracking. |
+| 🎓 [**ERP-based Attendance System**](https://github.com/cxndymee) | `Python` `MySQL` `HTML` `CSS` `JavaScript` | Academic ERP to manage student records, staff information & attendance tracking. Streamlined record-keeping for multi-department use. |
+| ⚙️ [**Distributed Task Queue System (Taskflow)**](https://github.com/cxndymee) | `Node.js` `PostgreSQL` `pgBoss` `React.js` | Mobile-first distributed task queue system powered by pgBoss queue processing. Supports async job scheduling, retries, and real-time task status tracking. |
 
 </div>
 
@@ -254,7 +254,7 @@ print(me.motto())
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://subashini-portfolio-software-developer.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:subashinioffcl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GnanaSubashini)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cxndymee)
 
 </div>
 
