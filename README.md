@@ -17,7 +17,9 @@
 
 <!-- ████████████████████  3. CODE-BLOCK ABOUT ME  ████████████████████ -->
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="55%">
 
 ```python
 # 👩‍💻 about_me.py
@@ -56,7 +58,16 @@ me = GnanaSubashini()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="100%" alt="girl coding on laptop"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ---
 
@@ -140,13 +151,7 @@ print(me.motto())
 
 <!-- ████████████████████  9. TROPHY WALL  ████████████████████ -->
 
-<div align="center">
 
-### 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=cxndymee&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/cxndymee)
-
-</div>
 
 ---
 
@@ -263,9 +268,5 @@ print(me.motto())
 <div align="center">
 
 *"Build. Break. Learn. Repeat. 🔁"*
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=120&section=footer&animation=twinkling)
 </div>
-
-<!-- ████████████████████  FOOTER WAVE  ████████████████████ -->
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
