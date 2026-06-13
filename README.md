@@ -25,17 +25,16 @@
 
 <img align="right" alt="girl coding" width="360" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif"/>
 
-### 🖥️ `$ cat gnana_subashini.py`
+### 🖥️ `gnana_subashini.py`
 
 ```python
 class GnanaSubashini:
     def __init__(self):
         self.name          = "Gnana Subashini"
-        self.role          = "Aspiring Software Developer"
+        self.role          = "AI/ML & Software Developer"
         self.location      = "Tuticorin, Tamil Nadu, India 🇮🇳"
-        self.degree        = "MCA — Kamaraj College (2024–2026)"
+        self.degree        = "MCA — Kamaraj College (2024–2026) - 88.7% "
         self.email         = "subashinioffcl@gmail.com"
-        self.portfolio     = "subashini-portfolio-software-developer.vercel.app"
 
         self.stack = {
             "languages":  ["Python", "JavaScript", "HTML", "CSS"],
@@ -60,9 +59,6 @@ class GnanaSubashini:
 
     def motto(self) -> str:
         return "Build. Break. Learn. Repeat. 🔁"
-
-    def status(self) -> str:
-        return "Open to Software Developer Roles 🚀"
 ```
 
 <br clear="right"/>
