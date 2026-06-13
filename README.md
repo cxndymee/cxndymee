@@ -11,7 +11,10 @@
 </div>
 
 <div align="center">
-
+  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=70A5FD)](https://subashini-portfolio-software-developer.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:subashinioffcl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxndymee)
 ![views](https://komarev.com/ghpvc/?username=cxndymee&color=70a5fd&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
@@ -64,17 +67,6 @@ class GnanaSubashini:
 
 <br clear="right"/>
 
----
-
-<!-- CONNECT -->
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=70A5FD)](https://subashini-portfolio-software-developer.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:subashinioffcl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxndymee)
-
-</div>
 
 ---
 
