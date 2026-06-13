@@ -1,4 +1,3 @@
-
 <div align="center">
   
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=250&section=header&text=GNANA%20SUBASHINI&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MCA%20Graduate&descAlignY=55&descSize=18)
@@ -14,8 +13,9 @@
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=70A5FD)](https://subashini-portfolio-software-developer.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-0f0c29?style=for-the-badge&logo=gmail&logoColor=FF6B6B)](mailto:subashinioffcl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cxndymee)
-![views](https://komarev.com/ghpvc/?username=cxndymee&color=70a5fd&style=flat-square&label=PROFILE+VIEWS)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0c29?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gnana-Subashini)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0c29?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/gnana-subashini-r-2b09613bb)
+![views](https://komarev.com/ghpvc/?username=Gnana-Subashini&color=70a5fd&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
@@ -115,8 +115,8 @@ class GnanaSubashini:
 
 ### 📊 GitHub Stats
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=cxndymee&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=12"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxndymee&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=12"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Gnana-Subashini&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=12"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gnana-Subashini&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=12"/>
 
 </div>
 
@@ -128,7 +128,7 @@ class GnanaSubashini:
 
 ### 🔥 Contribution Streak
 
-[![streak](https://streak-stats.demolab.com?user=cxndymee&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=12)](https://git.io/streak-stats)
+[![streak](https://streak-stats.demolab.com?user=Gnana-Subashini&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=FFFFFF&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=12)](https://git.io/streak-stats)
 
 </div>
 
@@ -140,7 +140,7 @@ class GnanaSubashini:
 
 ### 📈 Activity Graph
 
-[![activity](https://github-readme-activity-graph.vercel.app/graph?username=cxndymee&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true&amp;radius=12)](https://github.com/cxndymee)
+[![activity](https://github-readme-activity-graph.vercel.app/graph?username=Gnana-Subashini&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true&amp;radius=12)](https://github.com/Gnana-Subashini)
 
 </div>
 
@@ -247,6 +247,6 @@ class GnanaSubashini:
 
 <br/>
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=120&section=footer&animation=twinkling)](https://github.com/cxndymee)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,8,9,13&height=120&section=footer&animation=twinkling)](https://github.com/Gnana-Subashini)
 
 </div>
