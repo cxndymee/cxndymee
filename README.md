@@ -42,13 +42,6 @@ class GnanaSubashini:
             "tools":      ["Git", "GitHub", "VS Code", "Vercel"]
         }
 
-        self.currently_learning = [
-            "Advanced React Patterns & Performance",
-            "REST API Design & Security",
-            "System Design Fundamentals",
-            "Docker & Containerisation"
-        ]
-
         self.experience = [
             {
                 "role":    "AV & Networking Engineer",
@@ -61,11 +54,6 @@ class GnanaSubashini:
                 "period":  "2025 (3 months)"
             }
         ]
-
-        self.fun_fact = (
-            "I once debugged a networking issue at a museum 🏛️ "
-            "— turns out the exhibit itself was the bug 😄"
-        )
 
     def motto(self) -> str:
         return "Build. Break. Learn. Repeat. 🔁"
